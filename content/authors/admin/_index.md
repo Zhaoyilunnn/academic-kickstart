@@ -41,7 +41,8 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "zyilun8@gmail.com".
+#  link: '#contact'  # For a direct email link, use "zyilun8@gmail.com".
+  link: "zyilun8@gmail.com"
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
