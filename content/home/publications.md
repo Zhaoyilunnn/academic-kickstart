@@ -10,20 +10,20 @@ weight = 90  # Order that this section will appear.
 title = "Publications"
 subtitle = ""
 
-[content]
-  # Page type to display. E.g. post, talk, or publication.
-  page_type = "publication"
-  
-  # Choose how much pages you would like to display (0 = all pages)
-  count = 5
-  
-  # Choose how many pages you would like to offset by
-  offset = 0
-
-  # Page order. Descending (desc) or ascending (asc) date.
-  order = "desc"
-
-  # Filter posts by a taxonomy term.
+# [content]
+#   # Page type to display. E.g. post, talk, or publication.
+#   page_type = "publication"
+#   
+#   # Choose how much pages you would like to display (0 = all pages)
+#   count = 5
+#   
+#   # Choose how many pages you would like to offset by
+#   offset = 0
+# 
+#   # Page order. Descending (desc) or ascending (asc) date.
+#   order = "desc"
+# 
+#   # Filter posts by a taxonomy term.
 #   [content.filters]
 #     tag = ""
 #     category = ""
@@ -58,12 +58,12 @@ subtitle = ""
 #   # Text color (true=light or false=dark).
 #   # text_color_light = true  
   
-[advanced]
- # Custom CSS. 
- css_style = ""
- 
- # CSS class.
- css_class = ""
+# [advanced]
+#  # Custom CSS. 
+#  css_style = ""
+#  
+#  # CSS class.
+#  css_class = ""
 +++
 
 # {{% alert note %}}
