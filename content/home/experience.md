@@ -45,16 +45,16 @@ date_format = "Jan 2006"
   title = "Intern Research Assistant"
   company = "Peking University"
   location = "Beijing, China"
-  date_start = "2019-01"
-  date_end = "2019-06"
+  date_start = "2019-01-01"
+  date_end = "2019-06-01"
   description = """Researched the application scenario of polar code in B5G communication system"""
 
 [[experience]]
   title = "Intern Software Engineer"
   company = "Shenzhen Excelsecu Data Technology Co., Ltd"
   location = "Beijing, China"
-  date_start = "2018-07"
-  date_end = "2018-09"
+  date_start = "2018-07-01"
+  date_end = "2018-09-01"
   description = """Developed the middleware of encryption hardware (USB key)"""
 
 +++
