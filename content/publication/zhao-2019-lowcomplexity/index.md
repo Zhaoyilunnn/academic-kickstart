@@ -7,6 +7,5 @@ publication_types: ["3"]
 abstract: ""
 featured: false
 publication: "*Journal of lightwave technology*"
-url_preprint = "zhao-2019-lowcomplexity-second-review.pdf"
 ---
 
