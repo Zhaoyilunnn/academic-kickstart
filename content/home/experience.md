@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Beijing, China"
   date_start = "2019-07-15"
-  date_end = "Present"
+  date_end = ""
   description = """
   Responsibilities include:
   
@@ -38,7 +38,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Beijing, China"
   date_start = "2018-09-01"
-  date_end = "Present"
+  date_end = ""
   description = """Doing research on digital signal processing and machine learning."""
 
 +++
