@@ -29,7 +29,7 @@ date_format = "Jan 2006"
   
   * Optimizing the acoustic model in speech recognition
   * Developing the dynamic captioning function
-  * Developing the test normalization tool
+  * Developing the text normalization tool
   """
 
 [[experience]]
