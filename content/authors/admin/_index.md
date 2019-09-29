@@ -59,7 +59,7 @@ social:
 #    link: files/CV ZhaoYilun_V3.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "zyilun8@gmail.com"
+# email: "zyilun8@gmail.com"
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
@@ -68,5 +68,5 @@ user_groups:
 - Visitors
 ---
 
-Yilun Zhao is a Master candidate of Information and Communication Engineering. His research interests include Statistic Signal Processing, Automatic Speech Recognition and Smart Network. He is now working as an intern algorithm researcher in VIPKID, his work focuses on the optimization of acoustic model. 
+Yilun Zhao is a Master candidate of Information and Communication Engineering. His research interests include Statistic Signal Processing, Automatic Speech Recognition and Smart Network. He is now working as an intern algorithm researcher in [VIPKID](https://www.vipkid.com), his work focuses on the optimization of acoustic model. 
 Previously, he had some research experience in digital signal processing, including nonlinearity channel equalization, modulation format identification and signal-to-noise ratio estimation.
