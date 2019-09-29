@@ -68,4 +68,5 @@ user_groups:
 - Visitors
 ---
 
-Yilun Zhao is a Master candidate of Information and Communication Engineering. His research interests include Statistic Signal Processing, Automatic Speech Recognition and Smart Network. He is now working as an intern algorithm researcher in VIPKID, his work focuses on the optimization of acoustic model. Before this, he has some research experience in digital signal processing, including nonlinearity channel equalization, modulation format identification and signal-to-noise ratio estimation.
+Yilun Zhao is a Master candidate of Information and Communication Engineering. His research interests include Statistic Signal Processing, Automatic Speech Recognition and Smart Network. He is now working as an intern algorithm researcher in VIPKID, his work focuses on the optimization of acoustic model. 
+Previously, he had some research experience in digital signal processing, including nonlinearity channel equalization, modulation format identification and signal-to-noise ratio estimation.
