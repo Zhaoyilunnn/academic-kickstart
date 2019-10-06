@@ -27,10 +27,10 @@ interests:
 
 education:
   courses:
-  - course: MEng in Information and Communication Engineering
+  - course: M.Eng in Information and Communication Engineering
     institution: Beijing University of Posts and Telecommunications, Beijing, China
     year: 2021
-  - course: BSc in Photoelectric Information Science and Engineering 
+  - course: B.Eng in Photoelectric Information Science and Engineering 
     institution: Huazhong University of Science and Technology, Wuhan, China
     year: 2018
 
