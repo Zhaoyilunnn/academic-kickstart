@@ -1,5 +1,8 @@
 ---
 links:
+  - icon_pack: fab
+  - icon: twitter
+  - name: Follow
   - url: "files/zhao-2019-lowcomplexity.pdf"
 
 title: "Low complexity OSNR monitoring and modulation format identification based on binarized neural networks"
