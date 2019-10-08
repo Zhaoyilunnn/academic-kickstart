@@ -1,7 +1,5 @@
 ---
 links:
-  - icon_pack: far
-  - icon: book-open
   - name: Preprint
   - url: "files/zhao-2019-lowcomplexity.pdf"
 
