@@ -3,11 +3,11 @@ links:
   - icon_pack: fas
     icon: book-open
     name: Preprint
-    url: "files/zhao-2020-PDL.pdf"
+    url: "files/OFC-2020-yzm.pdf"
 
-title: "PDL insensitive low-complexity equalizer for digital coherent short-reach optical transmission systems"
+title: "Experimental demonstration of PDL insensitive low-complexity equalizer for short-reach coherent optical transmission system"
 date: 2020-01-01
-publishDate: 2019-10-08T17:18:24.466035Z
+publishDate: 2019-10-29T16:52:51.341826Z
 authors: ["Zhenming Yu", "Yilun Zhao", "Shaohua Hu", "Zhiquan Wan", "Liang Shu", "Jing Zhang", "Kun Xu"]
 publication_types: ["3"]
 abstract: ""
