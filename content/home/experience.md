@@ -23,13 +23,13 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Beijing, China"
   date_start = "2019-07-15"
-  date_end = ""
+  date_end = "2019-12-01"
   description = """
   Responsibilities include:
   
-  * Optimizing the acoustic model in speech recognition
-  * Developing the dynamic captioning function
-  * Developing the text normalization tool
+  * Optimized the acoustic model in speech recognition
+  * Developped the dynamic captioning function
+  * Developped the text normalization tool
   """
 
 [[experience]]
