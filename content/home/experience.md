@@ -28,8 +28,8 @@ date_format = "Jan 2006"
   Responsibilities include:
   
   * Optimized the acoustic model in speech recognition
-  * Developped the dynamic captioning function
-  * Developped the text normalization tool
+  * Developed the dynamic captioning function
+  * Developed the text normalization tool
   """
 
 [[experience]]
