@@ -1,10 +1,4 @@
 ---
-links:
-  - icon_pack: fas
-    icon: book-open
-    name: Preprint
-    url: "files/zhao-2019-lowcomplexity.pdf"
-
 
 title: "Low complexity OSNR monitoring and modulation format identification based on binarized neural networks"
 date: 2020-01-01
