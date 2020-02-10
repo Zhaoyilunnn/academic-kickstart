@@ -37,5 +37,5 @@
  
  [[main]]
     name = "Personal"
-    url = "files/2020-02-14.mp4"
+    url = "#personal"
     weight = 80
