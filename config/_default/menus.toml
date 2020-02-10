@@ -34,3 +34,8 @@
     name = "CV"
     url = "files/CV.pdf"
     weight = 70
+ 
+ [[main]]
+    name = "Personal"
+    url = "files/2020-02-14.mp4"
+    weight = 80
