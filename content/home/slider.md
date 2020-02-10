@@ -1,3 +1,5 @@
++++
+
 widget = "slider"  # Use the Slider widget
 headless = true  # This file represents a page section.
 
@@ -49,3 +51,5 @@ height = "300px"
 #   overlay_color = "#333"  # An HTML color value.
 #   overlay_img = ""  # Image path relative to your `static/img/` folder.
 #   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+
++++
