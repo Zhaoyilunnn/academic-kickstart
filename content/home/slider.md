@@ -32,7 +32,7 @@ height = "300px"
   cta_label = "Album by Lulu, 03/03/2019 - forever"
   cta_url = "files/2020-02-14.mp4"
   cta_icon_pack = "fas"
-  cta_icon = "graduation-cap"
+  cta_icon = "kiss-wink-heart"
 
 # [[item]]
 #   title = "Left"
