@@ -22,9 +22,7 @@ bio: My research interests include Digital Signal Processing and Machine Learnin
 
 interests:
 - Statistic Signal Processing
-- Automatic Speech Recognition
-- Intelligent Network
-- Hardware Design for Deep Learning
+- Cross-layer Design for Deep Learning
 
 education:
   courses:
