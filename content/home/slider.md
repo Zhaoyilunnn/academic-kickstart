@@ -1,23 +1,21 @@
-+++
-# Slider widget.
-widget = "slider"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "slider"  # Use the Slider widget
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 1  # Order that this section will appear.
+
+# ... Put Your Section Options Here (section position etc.) ...
 
 # Slide interval.
 # Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).
 interval = false
 
-# Slide height (optional).
-# E.g. `500px` for 500 pixels or `calc(100vh - 70px)` for full screen.
-height = ""
+# Minimum slide height.
+# Specify a height to ensure a consistent height for each slide.
+height = "300px"
 
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "Hello"
-  content = "I am center aligned :smile:"
+  title = "Personal"
+  content = "I appreciate it a lot to be with my cute girlfriend, "
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
@@ -29,26 +27,25 @@ height = ""
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
-  cta_label = "Get Academic"
-  cta_url = "https://sourcethemes.com/academic/"
+  cta_label = "Album by Lulu, 03/03/2019 - forever"
+  cta_url = "files/2020-02-14.mp4"
   cta_icon_pack = "fas"
   cta_icon = "graduation-cap"
 
-[[item]]
-  title = "Left"
-  content = "I am left aligned :smile:"
-  align = "left"
-
-  overlay_color = "#555"  # An HTML color value.
-  overlay_img = ""  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
-
-[[item]]
-  title = "Right"
-  content = "I am right aligned :smile:"
-  align = "right"
-
-  overlay_color = "#333"  # An HTML color value.
-  overlay_img = ""  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
-+++
+# [[item]]
+#   title = "Left"
+#   content = "I am left aligned 😄"
+#   align = "left"
+# 
+#   overlay_color = "#555"  # An HTML color value.
+#   overlay_img = ""  # Image path relative to your `static/img/` folder.
+#   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+# 
+# [[item]]
+#   title = "Right"
+#   content = "I am right aligned 😄"
+#   align = "right"
+# 
+#   overlay_color = "#333"  # An HTML color value.
+#   overlay_img = ""  # Image path relative to your `static/img/` folder.
+#   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
