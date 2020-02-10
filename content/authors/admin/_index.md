@@ -56,6 +56,14 @@ social:
   - icon: cv
     icon_pack: ai
     link: files/CV.pdf
+  
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/yilun-zhao-398a07162/
+
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Yilun_Zhao4?ev=hdr_xprf&_sg=Tf-k3ZgTvRsMZd9_22m1M2IVeF2xQISeiZTrlx5KQcRgnYHUiD9ir8nrxOfDkJKeRMQdbHshPAChxEq5YNhGWs0P
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 # email: "zyilun8@gmail.com"
