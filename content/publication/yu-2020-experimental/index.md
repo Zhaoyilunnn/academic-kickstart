@@ -1,9 +1,9 @@
 ---
+# icon: book-open
 links:
   - icon_pack: fas
-    icon: book-open
-    name: Preprint
-    url: "files/yu-2020-experimental.pdf"
+    name: PDF
+    url: "files/oe-29-5-6657.pdf"
 
 title: "Experimental Demonstration of PDL Insensitive Low-complexity Equalizer for Short-Reach Coherent Optical Transmission Systems"
 date: 2020-01-01
