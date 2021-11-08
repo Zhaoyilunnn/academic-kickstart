@@ -55,7 +55,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
   - icon: cv
     icon_pack: ai
-    link: files/CV.pdf
+    link: files/zhaoyilun.pdf
   
   - icon: linkedin
     icon_pack: fab

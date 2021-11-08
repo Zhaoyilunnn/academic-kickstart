@@ -32,10 +32,14 @@
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
  [[main]]
     name = "CV"
-    url = "files/CV.pdf"
+    url = "files/zhaoyilun.pdf"
     weight = 70
  
- [[main]]
-    name = "Personal"
-    url = "#slider"
-    weight = 80
+# [[main]]
+#    name = "Personal"
+#    url = "#slider"
+#    weight = 80
+  [[main]]
+    name = "Personal Statement"
+    url = "files/personal_statement.pdf"
+    weight = 70
