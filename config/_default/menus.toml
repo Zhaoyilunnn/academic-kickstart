@@ -43,3 +43,8 @@
     name = "Personal Statement"
     url = "files/personal_statement.pdf"
     weight = 70
+
+  [[main]]
+    name = "Transcript"
+    url = "files/transcript-undergrad-grad.pdf"
+    weight = 70
