@@ -37,8 +37,8 @@ date_format = "Jan 2006"
   company = "Baidu, Inc"
   company_url = "https://home.baidu.com/"
   location = "Beijing, China"
-  date_start = "2021-07"
-  date_end = "2022-06"
+  date_start = "2021-07-07"
+  date_end = "2022-06-28"
   description = """Optimizing the strategies in the crawler system.""" 
 
 [[experience]]
@@ -46,8 +46,8 @@ date_format = "Jan 2006"
   company = "University of Pittsburgh"
   company_url = "https://www.pitt.edu/"
   location = "Remote"
-  date_start = "2020-09"
-  date_end = "2021-10"
+  date_start = "2020-09-01"
+  date_end = "2021-10-01"
   description = """Doing research on quantum circuit simulation using GPUs."""
 
 [[experience]]
@@ -55,8 +55,8 @@ date_format = "Jan 2006"
   company = "Beijing University of Posts and Telecommunications"
   company_url = "https://english.bupt.edu.cn/"
   location = "Beijing, China"
-  date_start = "2018-09"
-  date_end = "2021-06"
+  date_start = "2018-09-01"
+  date_end = "2021-06-30"
   description = """Doing research on digital signal processing and machine learning."""
 
 # [[experience]]
