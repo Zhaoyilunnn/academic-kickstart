@@ -17,44 +17,62 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-[[experience]]
-  title = "Intern Algorithm Researcher"
-  company = "VIPKID"
-  company_url = "https://www.vipkidteachers.com"
-  location = "Beijing, China"
-  date_start = "2019-07-15"
-  date_end = "2019-12-01"
-  description = """
-  Responsibilities include:
-  
-  * Optimized the acoustic model in speech recognition
-  * Developed the dynamic captioning function
-  * Developed the text normalization tool
-  """
+# [[experience]]
+#   title = "Intern Algorithm Researcher"
+#   company = "VIPKID"
+#   company_url = "https://www.vipkidteachers.com"
+#   location = "Beijing, China"
+#   date_start = "2019-07-15"
+#   date_end = "2019-12-01"
+#   description = """
+#   Responsibilities include:
+#   
+#   * Optimized the acoustic model in speech recognition
+#   * Developed the dynamic captioning function
+#   * Developed the text normalization tool
+#   """
 
 [[experience]]
-  title = "Master Candidate of Information and Communication Engineering"
+  title = "Software Engineer"
+  company = "Baidu, Inc"
+  company_url = "https://home.baidu.com/"
+  location = "Beijing, China"
+  date_start = "2021-07"
+  date_end = "2022-06"
+  description = """Optimizing the strategies in the crawler system.""" 
+
+[[experience]]
+  title = "Research Assistant"
+  company = "University of Pittsburgh"
+  company_url = "https://www.pitt.edu/"
+  location = "Remote"
+  date_start = "2020-09"
+  date_end = "2021-10"
+  description = """Doing research on quantum circuit simulation using GPUs."""
+
+[[experience]]
+  title = "Master student"
   company = "Beijing University of Posts and Telecommunications"
   company_url = "https://english.bupt.edu.cn/"
   location = "Beijing, China"
-  date_start = "2018-09-01"
-  date_end = ""
+  date_start = "2018-09"
+  date_end = "2021-06"
   description = """Doing research on digital signal processing and machine learning."""
 
-[[experience]]
-  title = "Intern Research Assistant"
-  company = "Peking University"
-  location = "Beijing, China"
-  date_start = "2019-01-01"
-  date_end = "2019-06-01"
-  description = """Researched the application scenario of polar code in B5G communication system"""
+# [[experience]]
+#   title = "Intern Research Assistant"
+#   company = "Peking University"
+#   location = "Beijing, China"
+#   date_start = "2019-01-01"
+#   date_end = "2019-06-01"
+#   description = """Researched the application scenario of polar code in B5G communication system"""
 
-[[experience]]
-  title = "Intern Software Engineer"
-  company = "Shenzhen Excelsecu Data Technology Co., Ltd"
-  location = "Beijing, China"
-  date_start = "2018-07-01"
-  date_end = "2018-09-01"
-  description = """Developed the middleware of encryption hardware (USB key)"""
+# [[experience]]
+#   title = "Intern Software Engineer"
+#   company = "Shenzhen Excelsecu Data Technology Co., Ltd"
+#   location = "Beijing, China"
+#   date_start = "2018-07-01"
+#   date_end = "2018-09-01"
+#   description = """Developed the middleware of encryption hardware (USB key)"""
 
 +++
