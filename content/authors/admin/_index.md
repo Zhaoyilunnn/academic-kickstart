@@ -76,4 +76,3 @@ user_groups:
 ---
 
 I am a PhD student at [ICT, CAS](http://english.ict.cas.cn/) working with [Prof. Ying Wang](https://wangying-ict.github.io/). 
-# I earned my Master's degree at [BUPT](https://english.bupt.edu.cn/), where I work with [Prof. Zhenming Yu](https://scholar.google.com/citations?user=krWL91oAAAAJ&hl=en) and [Prof. Kun Xu](https://scholar.google.com/citations?user=3vCMTvgAAAAJ&hl=en). I received B.Eng degree at [Huazhong University of Science and Technology](http://english.hust.edu.cn/) and completed my graduation project under the supervision of [Prof. Songnian Fu](https://scholar.google.com/citations?user=v0RFbR8AAAAJ&hl=zh-CN) Currently I am doing research in heterogeneous computing system with emerging technologies under the supervision of [Dr. Xulong Tang](http://xzt102.github.io/). 
