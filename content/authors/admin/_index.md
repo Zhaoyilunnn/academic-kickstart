@@ -10,19 +10,19 @@ authors:
 superuser: true
 
 # Role/position
-role: Master candidate of Information and Communication Engineering
+#role: Master candidate of Information and Communication Engineering
 
 # Organizations/Affiliations
-organizations:
-- name: Beijing University of Posts and Telecommunications
-  url: "google2cefa6d30c8e81e9.html"
+#organizations:
+#- name: Beijing University of Posts and Telecommunications
+#  url: "google2cefa6d30c8e81e9.html"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Digital Signal Processing and Machine Learning
+#bio: My research interests include Digital Signal Processing and Machine Learning
 
-interests:
-- Statistic Signal Processing
-- Cross-layer Design for Deep Learning
+#interests:
+#- Statistic Signal Processing
+#- Cross-layer Design for Deep Learning
 
 education:
   courses:
@@ -61,9 +61,9 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/yilun-zhao-398a07162/
 
-  - icon: researchgate
-    icon_pack: ai
-    link: https://www.researchgate.net/profile/Yilun_Zhao4?ev=hdr_xprf&_sg=Tf-k3ZgTvRsMZd9_22m1M2IVeF2xQISeiZTrlx5KQcRgnYHUiD9ir8nrxOfDkJKeRMQdbHshPAChxEq5YNhGWs0P
+#  - icon: researchgate
+#    icon_pack: ai
+#    link: https://www.researchgate.net/profile/Yilun_Zhao4?ev=hdr_xprf&_sg=Tf-k3ZgTvRsMZd9_22m1M2IVeF2xQISeiZTrlx5KQcRgnYHUiD9ir8nrxOfDkJKeRMQdbHshPAChxEq5YNhGWs0P
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 # email: "zyilun8@gmail.com"
