@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Yilun Zhao
+name: Yilun Zhao (赵逸伦)
 
 # Username (this should match the folder name)
 authors:
