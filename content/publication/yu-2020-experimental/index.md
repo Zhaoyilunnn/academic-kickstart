@@ -6,12 +6,12 @@ links:
     url: "files/oe-29-5-6657.pdf"
 
 title: "PDL and CD insensitive low complexity equalizer for short reach coherent systems"
-date: 2020-01-01
-publishDate: 2019-12-14T07:35:07.799302Z
+date: 2021-02-17
+publishDate: 2021-02-17
 authors: ["Zhenming Yu", "Yilun Zhao", "Shaohua Hu", "Zhiquan Wan", "Liang Shu", "Jing Zhang", "Kun Xu"]
-publication_types: ["3"]
+publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "**"
+publication: "*Optics express*"
 ---
 
